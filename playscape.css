@@ -30,8 +30,14 @@
     text-align: center;
 }
 
-.img1,.img2{
+.img2{
     height:300px;
+    width:100%;
+}
+
+
+.img1{
+    height:280px;
     width:100%;
 }
 .img3{
